@@ -1,0 +1,8 @@
+## 読め
+
+- https://qiita.com/techpoem/items/7d8b59c602a535d533c8
+- https://note.com/showroom_recruit/n/nb327ae9bfd5e
+- https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8
+- https://qiita.com/alt_yamamoto/items/25eda376e6b947208996
+
+## 自動化しろ
