@@ -7,4 +7,7 @@
 - https://wirelesswire.jp/2019/06/71052/
 - https://www.amazon.co.jp/dp/4314009241
 
+## やれ
+- https://qiita.com/drken/items/fd4e5e3630d0f5859067
+
 ## 自動化しろ
