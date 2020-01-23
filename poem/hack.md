@@ -23,3 +23,15 @@
 ## 死なない集合をつくるために学習するくらいなら､学習しない単数のまま死にたい
 
 ## ポエムじゃないけど､Microsoft edgeが使える｡
+
+主観だからポエムなのでは説ある  
+とにかく最近Google Chromeへの不満が多くて､特にメディアの再生では圧倒的にedgeが良い  
+TwitterとYouTubeとNiconicoのメディア再生は完全に乗り換えた  
+flagsも大体移行できたことも良い  
+hide scrollbarは使えなかったけど  
+あと､Chromeにはある拡張機能のBookmark sidebarがedgeにはなさそう  
+純粋にChromiumの問題点として､僕みたいに常時タブが100以上ある状態だと､パフォーマンス落ちるから完全移行はしないと思うけど  
+今までもChromeの3つのバージョン使い分けてChrome3枚体制で運用してたし  
+あと､特定のGoogleのwebページでしか使いたくない(今は仕方なくTwitterもedgeで使ってるけど本当はChromeが良い)  
+なぜならgoogleアカウントに紐づくトラッキングをしてくれないから  
+Google My Activityのヘビーユーザーとしてこれは外せない  
