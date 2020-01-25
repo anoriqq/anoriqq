@@ -35,3 +35,7 @@ hide scrollbarは使えなかったけど
 あと､特定のGoogleのwebページでしか使いたくない(今は仕方なくTwitterもedgeで使ってるけど本当はChromeが良い)  
 なぜならgoogleアカウントに紐づくトラッキングをしてくれないから  
 Google My Activityのヘビーユーザーとしてこれは外せない  
+
+## 免許とるか
+
+![視力](https://github.com/anoriqq/anoriqq/blob/images/tCnQykwsfjbT9v387LRfSpTOiUGdIr.png)
