@@ -61,3 +61,7 @@ Google My Activityのヘビーユーザーとしてこれは外せない
 ## 僕は初音ミクの声を聴くだけでにっこにこ
 
 ## シチュー食べ過ぎた
+
+## draft PRそういえばあったな｡今更始めて見た｡
+
+https://github.com/nodejs/node/pull/30370
