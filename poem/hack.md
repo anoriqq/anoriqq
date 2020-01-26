@@ -65,3 +65,5 @@ Google My Activityのヘビーユーザーとしてこれは外せない
 ## draft PRそういえばあったな｡今更始めて見た｡
 
 https://github.com/nodejs/node/pull/30370
+
+## かどっぺさんのツイートみててにっこにこになるの初音ミクの声のときとにてる気がした
