@@ -91,3 +91,5 @@ https://github.com/nodejs/node/pull/30370
 ## 意味わからないのは僕がThe World as I See Itの話を僕がどこでもしてないから
 
 ## DECO*27の初音ミクはカジュアル系女子
+
+## > ｢今のは名シーンだよ｣
