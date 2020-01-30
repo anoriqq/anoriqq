@@ -93,3 +93,16 @@ https://github.com/nodejs/node/pull/30370
 ## DECO*27の初音ミクはカジュアル系女子
 
 ## > ｢今のは名シーンだよ｣
+
+## 2014年のYouTubeプレイヤーを観測した
+
+懐かしい｡  
+のかな｡14歳のときはなにしてたっけ｡  
+ああ､そうだ｡めっちゃYouTube見てたわ｡  
+あの頃までは､順調に教育をうけて育っていたなぁ｡  
+YouTubeへの憧れとただやりたいという好奇心と行動力が強すぎて､中学生が短時間で許容できる以上の経験をしてしまった｡  
+あの全能感を捨てさせられなかったら､19歳の僕は何者かになっていたのかな｡  
+でも､僕はばかだから､まだやれると実は思ってるけどね｡  
+ありがとう｡YouTube｡  
+
+![YouTube Player](https://github.com/anoriqq/anoriqq/blob/images/GDRTH2ZxP1lg87fYQeHtn4wIbreWud.png)
