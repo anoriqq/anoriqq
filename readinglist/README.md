@@ -9,6 +9,8 @@
 - https://qiita.com/7vvXi/items/dff798fe8d910298b1ae
 
 ## やれ
+
 - https://qiita.com/drken/items/fd4e5e3630d0f5859067
+- https://qiita.com/Ishotihadus/items/c2f864c0cde3d17b7efb
 
 ## 自動化しろ
