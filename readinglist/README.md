@@ -7,6 +7,7 @@
 - https://wirelesswire.jp/2019/06/71052/
 - https://www.amazon.co.jp/dp/4314009241
 - https://qiita.com/7vvXi/items/dff798fe8d910298b1ae
+- https://qiita.com/Kokudori/items/2e4bd32abf7abea3186f
 
 ## やれ
 
