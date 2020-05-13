@@ -1,12 +1,16 @@
 # English
 
-## やるぜ！
+## やるぜ
 
 I'd be interested in grabbing this issue.
 
 I'm willing to try out this issue.
 
-We'll work on this!
+I'll work on {this,xxx}
+
+I'll pick xxx up
+
+I'd like to try {this,xxx}
 
 ## アドバイスください
 
