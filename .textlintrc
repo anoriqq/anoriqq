@@ -2,8 +2,12 @@
   "filters": {},
   "rules": {
     "preset-japanese": true,
-    "preset-jtf-style": true,
     "preset-ja-spacing": true,
-    "preset-ja-technical-writing": true
+    "preset-ja-technical-writing": {
+      "ja-no-weak-phrase": false
+    },
+    "preset-jtf-style": {
+      "1.1.1.本文": false
+    }
   }
 }
