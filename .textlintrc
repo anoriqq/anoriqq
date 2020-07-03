@@ -1,7 +1,9 @@
 {
   "filters": {},
   "rules": {
-    "preset-japanese": true,
+    "preset-japanese": ｛
+      "max-ten": false,
+    },
     "preset-ja-spacing": true,
     "preset-ja-technical-writing": {
       "ja-no-weak-phrase": false
