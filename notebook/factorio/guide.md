@@ -95,6 +95,7 @@ cDwvMAO4znMd2BmQABgdH+Yfo4BAFsm3NA=<<<
     - 緑パックラインを作り始める
     - 赤パックラインをメイン工場へ移管する
   - 鋼鉄の斧
+
 ## 鋼材
 
 鋼材の量産体制を整える  
@@ -117,7 +118,6 @@ cDwvMAO4znMd2BmQABgdH+Yfo4BAFsm3NA=<<<
   - 流体力学
   - 原油処理技術
   - プラスチックの製造
-
 
 ## 原油遠征
 
