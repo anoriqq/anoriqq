@@ -1,4 +1,4 @@
-## anoriqq
+## anoriqq ･ ![ghpvc](https://komarev.com/ghpvc/?username=anoriqq)
 
 <img align="left" src="https://github-readme-stats.anoriqq.vercel.app/api/top-langs/?username=anoriqq&hide=html&theme=dark" alt="anoriqq" />
 <img align="center" src="https://github-readme-stats.anoriqq.vercel.app/api?username=anoriqq&show_icons=true&count_private=true&theme=dark&line_height=33" alt="anoriqq" />
